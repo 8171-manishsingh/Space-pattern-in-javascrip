@@ -1,0 +1,1 @@
+# Space-pattern-in-javascrip
